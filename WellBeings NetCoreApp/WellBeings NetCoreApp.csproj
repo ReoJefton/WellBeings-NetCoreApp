@@ -25,4 +25,9 @@
     <Folder Include="wwwroot\images\" />
   </ItemGroup>
 
+  <ItemGroup>
+    <None Include="wwwroot\css\contact.css" />
+    <None Include="wwwroot\css\retailers.css" />
+  </ItemGroup>
+
 </Project>

@@ -8874,11 +8874,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\reoje\\source\\repos\\WellBeings NetCoreApp\\WellBeings NetCoreApp\\WellBeings NetCoreApp.csproj",
+      "projectUniqueName": "C:\\Users\\reoje\\Source\\Repos\\reojeffi\\WellBeings-NetCoreApp\\WellBeings NetCoreApp\\WellBeings NetCoreApp.csproj",
       "projectName": "WellBeings NetCoreApp",
-      "projectPath": "C:\\Users\\reoje\\source\\repos\\WellBeings NetCoreApp\\WellBeings NetCoreApp\\WellBeings NetCoreApp.csproj",
+      "projectPath": "C:\\Users\\reoje\\Source\\Repos\\reojeffi\\WellBeings-NetCoreApp\\WellBeings NetCoreApp\\WellBeings NetCoreApp.csproj",
       "packagesPath": "C:\\Users\\reoje\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\reoje\\source\\repos\\WellBeings NetCoreApp\\WellBeings NetCoreApp\\obj\\",
+      "outputPath": "C:\\Users\\reoje\\Source\\Repos\\reojeffi\\WellBeings-NetCoreApp\\WellBeings NetCoreApp\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
