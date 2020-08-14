@@ -13,4 +13,7 @@ Steps to run web app:
 5. Products page does not have products seed data. Click create button to add data.
 
 Enjoy the Well Beings Ins .Net Core Web App!
+<img src="https://github.com/reojeffi/WellBeings-NetCoreApp/blob/master/WellBeings%20NetCoreApp/wwwroot/images/s1.png" />
+<img src="https://github.com/reojeffi/WellBeings-NetCoreApp/blob/master/WellBeings%20NetCoreApp/wwwroot/images/s2.png" />
+
 
