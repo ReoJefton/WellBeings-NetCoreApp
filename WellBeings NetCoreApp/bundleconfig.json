@@ -1,9 +1,7 @@
 [
   {
     "outputFileName": "wwwroot/css/site.min.css",
-    "inputFiles": [
-      "wwwroot/css/site.css"
-    ]
+    "inputFiles": [ "wwwroot/**/!(*.min).css" ]
   },
   {
     "outputFileName": "wwwroot/js/site.min.js",

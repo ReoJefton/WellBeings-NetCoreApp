@@ -191,6 +191,7 @@ C:\Users\reoje\source\repos\WellBeings NetCoreApp\WellBeings NetCoreApp\obj\Debu
 C:\Users\reoje\source\repos\WellBeings NetCoreApp\WellBeings NetCoreApp\obj\Debug\netcoreapp3.1\WellBeings NetCoreApp.genruntimeconfig.cache
 C:\Users\reoje\Source\Repos\reojeffi\WellBeings-NetCoreApp\WellBeings NetCoreApp\bin\Debug\netcoreapp3.1\appsettings.Development.json
 C:\Users\reoje\Source\Repos\reojeffi\WellBeings-NetCoreApp\WellBeings NetCoreApp\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\reoje\Source\Repos\reojeffi\WellBeings-NetCoreApp\WellBeings NetCoreApp\bin\Debug\netcoreapp3.1\bundleconfig.json
 C:\Users\reoje\Source\Repos\reojeffi\WellBeings-NetCoreApp\WellBeings NetCoreApp\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
 C:\Users\reoje\Source\Repos\reojeffi\WellBeings-NetCoreApp\WellBeings NetCoreApp\bin\Debug\netcoreapp3.1\Properties\serviceDependencies.json
 C:\Users\reoje\Source\Repos\reojeffi\WellBeings-NetCoreApp\WellBeings NetCoreApp\bin\Debug\netcoreapp3.1\Properties\serviceDependencies.local.json
@@ -341,7 +342,6 @@ C:\Users\reoje\Source\Repos\reojeffi\WellBeings-NetCoreApp\WellBeings NetCoreApp
 C:\Users\reoje\Source\Repos\reojeffi\WellBeings-NetCoreApp\WellBeings NetCoreApp\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.0\System.Runtime.Caching.dll
 C:\Users\reoje\Source\Repos\reojeffi\WellBeings-NetCoreApp\WellBeings NetCoreApp\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Runtime.Caching.dll
 C:\Users\reoje\Source\Repos\reojeffi\WellBeings-NetCoreApp\WellBeings NetCoreApp\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
-C:\Users\reoje\Source\Repos\reojeffi\WellBeings-NetCoreApp\WellBeings NetCoreApp\obj\Debug\netcoreapp3.1\WellBeings NetCoreApp.csprojAssemblyReference.cache
 C:\Users\reoje\Source\Repos\reojeffi\WellBeings-NetCoreApp\WellBeings NetCoreApp\obj\Debug\netcoreapp3.1\WellBeings NetCoreApp.AssemblyInfoInputs.cache
 C:\Users\reoje\Source\Repos\reojeffi\WellBeings-NetCoreApp\WellBeings NetCoreApp\obj\Debug\netcoreapp3.1\WellBeings NetCoreApp.AssemblyInfo.cs
 C:\Users\reoje\Source\Repos\reojeffi\WellBeings-NetCoreApp\WellBeings NetCoreApp\obj\Debug\netcoreapp3.1\WellBeings NetCoreApp.csproj.CoreCompileInputs.cache

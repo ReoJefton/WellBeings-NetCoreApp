@@ -3,22 +3,25 @@
 @{
     ViewData["Title"] = "Products";
 }
-    <link rel="stylesheet" href="~/css/site.css" />
-    <link rel="stylesheet" type="text/css" href="~/css/productsIndex.css" />
 
-<h1>Products</h1>
+<link rel="stylesheet" type="text/css" href="~/css/productsIndex.css" />
+<script type="text/javascript" src="~/js/filter.js"></script>
+
+<div class="row">
+    <h1 class="col-lg-6 col-md-6 col-sm-6 col-xs-12">Products</h1>
+    <div class="col-lg-6 col-md-6 col-sm-6 col-xs-12">
+        <a asp-action="Create" class="btn1" style="float:right;">Create New</a>
+    </div>
+</div>
 <input type="text" id="myInput" onkeyup="myFunction()" placeholder="Filter by name" title="Type product name">
 @*<input type="text" id="myInput" onkeyup="myFunction2()" placeholder="Filter by type" title="Type product type">*@
-<p>
-    <a asp-action="Create">Create New</a>
-</p>
 <div class="card-form">
     <table class="table" id="myTable">
         <thead>
             <tr>
                 @*<th>
-                    @Html.DisplayNameFor(model => model.TypeId)
-                </th>*@
+                        @Html.DisplayNameFor(model => model.TypeId)
+                    </th>*@
                 <th>
                     @Html.DisplayNameFor(model => model.Name)
                 </th>
@@ -36,8 +39,8 @@
             {
                 <tr>
                     @*<td>
-                        @Html.DisplayFor(modelItem => item.TypeId)
-                    </td>*@
+                            @Html.DisplayFor(modelItem => item.TypeId)
+                        </td>*@
                     <td>
                         @Html.DisplayFor(modelItem => item.Name)
                     </td>
@@ -49,7 +52,7 @@
                     </td>
                     <td>
                         @*<a asp-action="Edit" asp-route-id="@item.ProductId">Edit</a> |*@
-                        <a asp-action="Details" asp-route-id="@item.ProductId">Details</a>
+                        <a asp-action="Details" asp-route-id="@item.ProductId" class="btn1">Details</a>
                         @*<a asp-action="Delete" asp-route-id="@item.ProductId">Delete</a>*@
                     </td>
                 </tr>
@@ -57,23 +60,3 @@
         </tbody>
     </table>
 </div>
-<script>
-    function myFunction() {
-        var input, filter, table, tr, td, i, txtValue;
-        input = document.getElementById("myInput");
-        filter = input.value.toUpperCase();
-        table = document.getElementById("myTable");
-        tr = table.getElementsByTagName("tr");
-        for (i = 0; i < tr.length; i++) {
-            td = tr[i].getElementsByTagName("td")[0];
-            if (td) {
-                txtValue = td.textContent || td.innerText;
-                if (txtValue.toUpperCase().indexOf(filter) > -1) {
-                    tr[i].style.display = "";
-                } else {
-                    tr[i].style.display = "none";
-                }
-            }
-        }
-    }
-</script>
