@@ -13,5 +13,6 @@
       "renameLocals": true
     },
     "sourceMap": false
+    //"includeInProject": true
   }
 ]

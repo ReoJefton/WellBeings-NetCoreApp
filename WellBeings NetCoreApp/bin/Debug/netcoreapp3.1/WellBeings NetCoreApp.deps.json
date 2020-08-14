@@ -24,6 +24,7 @@
     ".NETCoreApp,Version=v3.1": {
       "WellBeings NetCoreApp/1.0.0": {
         "dependencies": {
+          "BuildBundlerMinifier": "3.2.449",
           "Microsoft.AspNetCore.Diagnostics.EntityFrameworkCore": "3.1.6",
           "Microsoft.AspNetCore.Identity.EntityFrameworkCore": "3.1.6",
           "Microsoft.AspNetCore.Identity.UI": "3.1.6",
@@ -301,6 +302,7 @@
           "WellBeings NetCoreApp.dll": {}
         }
       },
+      "BuildBundlerMinifier/3.2.449": {},
       "Microsoft.AspNetCore.Cryptography.Internal/3.1.6": {
         "runtime": {
           "lib/netcoreapp3.1/Microsoft.AspNetCore.Cryptography.Internal.dll": {
@@ -4026,6 +4028,13 @@
       "type": "project",
       "serviceable": false,
       "sha512": ""
+    },
+    "BuildBundlerMinifier/3.2.449": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-uA9sYDy4VepL3xwzBTLcP2LyuVYMt0ZIT3gaSiXvGoX15Ob+rOP+hGydhevlSVd+rFo+Y+VQFEHDuWU8HBW+XA==",
+      "path": "buildbundlerminifier/3.2.449",
+      "hashPath": "buildbundlerminifier.3.2.449.nupkg.sha512"
     },
     "Microsoft.AspNetCore.Cryptography.Internal/3.1.6": {
       "type": "package",
