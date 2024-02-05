@@ -10,7 +10,7 @@
 <div class="row">
     <h1 class="col-lg-6 col-md-6 col-sm-6 col-xs-12">Products</h1>
     <div class="col-lg-6 col-md-6 col-sm-6 col-xs-12">
-        <a asp-action="Create" class="btn1" style="float:right;">Create New</a>
+        <a asp-action="Create" class="btn" style="float:right;">Create New</a>
     </div>
 </div>
 <input type="text" id="myInput" onkeyup="myFunction()" placeholder="Filter by name" title="Type product name">
@@ -52,7 +52,7 @@
                     </td>
                     <td>
                         @*<a asp-action="Edit" asp-route-id="@item.ProductId">Edit</a> |*@
-                        <a asp-action="Details" asp-route-id="@item.ProductId" class="btn1">Details</a>
+                        <a asp-action="Details" asp-route-id="@item.ProductId" class="btn">Details</a>
                         @*<a asp-action="Delete" asp-route-id="@item.ProductId">Delete</a>*@
                     </td>
                 </tr>
