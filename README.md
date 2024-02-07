@@ -18,7 +18,7 @@ Steps to run web app:
          PM> Update-Database -context WellBeings_NetCoreAppContext
    
 Enjoy the Well Beings Ins .Net Core Web App!
-<img src="https://github.com/reojeffi/WellBeings-NetCoreApp/blob/master/WellBeings%20NetCoreApp/wwwroot/images/s1new.png" />
-<img src="https://github.com/reojeffi/WellBeings-NetCoreApp/blob/master/WellBeings%20NetCoreApp/wwwroot/images/s2new.png" />
-<img src="https://github.com/reojeffi/WellBeings-NetCoreApp/blob/master/WellBeings%20NetCoreApp/wwwroot/images/s3new.png" />
+<img src="https://github.com/ReoJefton/WellBeings-NetCoreApp/blob/master/WellBeings%20NetCoreApp/wwwroot/images/S1new.png" />
+<img src="https://github.com/ReoJefton/WellBeings-NetCoreApp/blob/master/WellBeings%20NetCoreApp/wwwroot/images/S2new.png" />
+<img src="https://github.com/ReoJefton/WellBeings-NetCoreApp/blob/master/WellBeings%20NetCoreApp/wwwroot/images/S3new.png" />
 
