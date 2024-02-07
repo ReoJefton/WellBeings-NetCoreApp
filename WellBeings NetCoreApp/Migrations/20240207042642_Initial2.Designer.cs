@@ -3,15 +3,17 @@ using System;
 using Microsoft.EntityFrameworkCore;
 using Microsoft.EntityFrameworkCore.Infrastructure;
 using Microsoft.EntityFrameworkCore.Metadata;
+using Microsoft.EntityFrameworkCore.Migrations;
 using Microsoft.EntityFrameworkCore.Storage.ValueConversion;
 using WellBeings_NetCoreApp.Data;
 
 namespace WellBeings_NetCoreApp.Migrations
 {
     [DbContext(typeof(WellBeings_NetCoreAppContext))]
-    partial class WellBeings_NetCoreAppContextModelSnapshot : ModelSnapshot
+    [Migration("20240207042642_Initial2")]
+    partial class Initial2
     {
-        protected override void BuildModel(ModelBuilder modelBuilder)
+        protected override void BuildTargetModel(ModelBuilder modelBuilder)
         {
 #pragma warning disable 612, 618
             modelBuilder
